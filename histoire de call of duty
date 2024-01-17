@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Histoire de Call of Duty</title>
+</head>
+<body>
+    <header>
+        <h1>Histoire de Call of Duty</h1>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="#seconde-guerre-mondiale">Seconde Guerre mondiale</a></li>
+            <li><a href="#guerre-froide">Guerre froide</a></li>
+            <li><a href="#operations-modernes">Opérations Modernes</a></li>
+            <li><a href="#advanced warfare">Opérations Modernes</a></li>
+        </ul>
+    </nav>
+
+    <section id="seconde-guerre-mondiale">
+        <h2>Seconde Guerre mondiale</h2>
+        <p>Call of Duty : La campagne centrée sur les États-Unis de la Seconde Guerre mondiale se concentre sur la dernière partie de la guerre. Il s'agit de raconter l'histoire du front occidental, en vous emmenant dans des batailles emblématiques comme le débarquement sur la plage de Normandie, ainsi que la bataille des Ardennes.</p>
+        <!-- Ajoutez plus de contenu ici -->
+    </section>
+
+    <section id="guerre-froide">
+        <h2>Guerre froide</h2>
+        <p>La campagne de Call of Duty : Black Ops Cold War se déroule pendant la guerre froide au début des années 1980. Il suit Green Beret devenu officier de la CIA SAD/SOG Russell Adler (Bruce Thomas) et sa mission visant à arrêter une menace d'espionnage internationale connue sous le nom de Perseus (William Salyers) en 1981. L'histoire est inspirée d'événements réels.
+</p>
+        <!-- Ajoutez plus de contenu ici -->
+    </section>
+
+    <section id="operations-modernes">
+        <h2>Opérations Modernes</h2>
+        <p>Comme son prédécesseur, le jeu se déroule dans un cadre réaliste et moderne. La campagne suit l'unité multinationale d'opérations spéciales Task Force 141 et l'unité des forces spéciales mexicaines Los Vaqueros alors qu'elles tentent de retrouver le chef terroriste, qui est en possession de missiles balistiques de fabrication américaine.</p>
+        <!-- Ajoutez plus de contenu ici -->
+    </section>
+   
+   <section id="advanced warfare">
+        <h2>advanced warfare</h2>
+        <p>
+Mitchell, un soldat de guerre, perd son bras au combat et est rajeuni avec un autre par Jonathan Irons (Kevin Spacey), le propriétaire d'Atlas, un cabinet militaire privé utilisé pour éliminer les menaces incontrôlables que l'armée ou l'armée normale peut ' t contrôler. Dans COD : ADVANCED WARFARE, vous combattez les psychotiques Irons qui sont déterminés à contrôler politiquement le monde avec des Exo Suits et des Mechs. Affrontez le danger à Séoul, en Corée et dans un vaste environnement à traverser. C'est le jeu qui traite du côté obscur de la politique et de l'avenir.</p>
+</section>
+    
+</body>
+</html>
+
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
+
+nav {
+    background-color: #555;
+    padding: 10px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 10px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+}
+
+section {
+    padding: 20px;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
